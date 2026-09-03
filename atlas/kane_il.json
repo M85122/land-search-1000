@@ -1,0 +1,23 @@
+{
+  "fips": "17089",
+  "state": "IL",
+  "county": "Kane",
+  "adapter": "arcgis",
+  "layer_url": "https://gistech.countyofkane.org/arcgis/rest/services/KanePINList/MapServer/0",
+  "owner_searchable": true,
+  "fields": {
+    "owner": "TaxName",
+    "pin": "PIN",
+    "site_address": "SiteAddress",
+    "site_city": "SiteCity",
+    "site_state": "SiteState",
+    "site_zip": "SiteZip",
+    "mailing_address": "MailingAddress",
+    "mailing_city": "MailingCity",
+    "mailing_state": "MailingState",
+    "mailing_zip": "MailingZip"
+  },
+  "license": "Public GIS / assessor parcel data. See county copyright.",
+  "attribution": "Kane County GIS; Supervisor of Assessments; County Clerk. Layer: KanePINList/MapServer/0 (Kane.DBO.Parcels_v2025).",
+  "last_verified": "2026-09-02"
+}
