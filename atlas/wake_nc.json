@@ -1,0 +1,18 @@
+{
+  "fips": "37183",
+  "state": "NC",
+  "county": "Wake",
+  "adapter": "arcgis",
+  "layer_url": "https://maps.wakegov.com/arcgis/rest/services/Property/Parcels/MapServer/0",
+  "owner_searchable": true,
+  "fields": {
+    "owner": "OWNER",
+    "pin": "PIN_NUM",
+    "site_address": "SITE_ADDRESS",
+    "site_city": "CITY",
+    "mailing_address": "ADDR1"
+  },
+  "license": "Public GIS / assessor parcel data. See Wake County GIS terms.",
+  "attribution": "Wake County GIS. Layer: Property/Parcels/MapServer/0.",
+  "last_verified": "2026-09-02"
+}

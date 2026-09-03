@@ -1,0 +1,2 @@
+include LICENSE ATTRIBUTION.md README.md
+recursive-include atlas *.json
